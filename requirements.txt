@@ -1,0 +1,15 @@
+phidata
+openai
+fastapi[standard]
+sqlalchemy
+pgvector
+pypdf
+newspaper4k
+python-dotenv
+packaging
+psycopg2
+google-auth-oauthlib
+google-api-python-client
+uvicorn
+python-dateutil
+pytz
